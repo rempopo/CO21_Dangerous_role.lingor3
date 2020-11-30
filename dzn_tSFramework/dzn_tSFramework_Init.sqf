@@ -23,7 +23,7 @@ tSF_module_CCP = false;
 tSF_module_FARP = false;
 
 tSF_module_Interactives = false;
-tSF_module_ACEActions = true;
+tSF_module_ACEActions = false;
 
 tSF_module_Authorization = true;
 tSF_module_AirborneSupport = false;
